@@ -21,4 +21,4 @@ This is a fun and basic Pac-Man exercise!
   <p> <em>We're just getting started</em> :) </p>
   
   <h5> License Info: </h5> 
-  <p> Look! this is an educational project. At this very moment not license is needed until it gets better maybe </p>
+  <p> Look! this is an educational project. At this very moment, no license is needed until it gets better maybe. </p>

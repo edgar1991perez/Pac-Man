@@ -1,12 +1,11 @@
 
- <h3> Features: </h3>
- <p> a function run where he can go move and return and it a time run set in 200 </p>
+ <h1> Features: </h1>
+ <p> a function run is made so the object moves and returns </p>
  
- <h3> Usage : </h3>
+ <h2> Usage : </h2>
  <p> By using the onclick "Run" the image will run back and forth in a accross the page </p>
- </br> 
  
- <h3>Future Feats it must include :</h3>
+<h3>Future Feats it must include :</h3>
  <ul>
   <li> the ghosts that appear in the videogame </li>
   <li> animations that look like the game </li>

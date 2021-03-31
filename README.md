@@ -3,7 +3,7 @@
  <p> a function run is made so the object moves and returns </p>
  
  <h2> Usage : </h2>
- <p> By using the onclick "Run" the image will run back and forth in a accross the page </p>
+ <p> By using the onclick "Run" option the image will run back and forth in a accross the page </p>
  
 <h3>Future Feats it must include :</h3>
  <ul>

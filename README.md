@@ -1,4 +1,4 @@
-<h1> Pac-Man </h1>
+
 <p>
 This is a fun and basic Pac-Man exercise! 
 <p>

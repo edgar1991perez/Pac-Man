@@ -1,12 +1,8 @@
-<p>
-This is a fun and basic Pac-Man exercise! 
-<p>
-<br>
-  
- <h5> Features: </h5>
+
+ <h3> Features: </h3>
  <p> a function run where he can go move and return and it a time run set in 200 </p>
  
- <h5> Usage : </h5>
+ <h3> Usage : </h3>
  <p> By using the onclick "Run" the image will run back and forth in a accross the page </p>
  </br> 
  
